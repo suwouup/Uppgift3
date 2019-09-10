@@ -1,0 +1,51 @@
+/* TABELLENS DESIGN */
+
+table {
+	color: white;
+    border-collapse: collapse;
+    width: 65%;
+	text-align: center;
+
+}
+
+th {
+    font-size: 20px;
+	font-weight: bold;
+	letter-spacing: -1px;
+	padding: 10px;
+    background-color: grey;
+}
+
+/* TABELLENS LINJER */
+
+table, th, td {
+	border: 1px solid black;
+	
+
+}
+
+/* MELLANRUM I RADERNA */
+
+td {
+	padding: 7.5px;
+    font-weight: bold;
+	font-size: 16px;
+}
+
+/* FÄRGADE RADER */
+
+.bla {
+   background-color: blue;	
+}
+
+.rod {
+	background-color: red;
+}
+
+.rosa {
+	background-color: pink;
+}
+
+.svart {
+	background-color: black;
+}
